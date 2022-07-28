@@ -4,6 +4,3 @@ def test_01():
 
 def test_02():
     assert 2 == 2
-    
-def test_03():
-    assert 1 == 5
